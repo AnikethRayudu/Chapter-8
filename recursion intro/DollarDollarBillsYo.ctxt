@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DollarDollarBillsYo()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ DollarDollarBillsYo\r\n
+comment1.params=monataryGoal
+comment1.target=int\ collect(int)
+numComments=2
