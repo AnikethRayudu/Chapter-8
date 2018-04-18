@@ -21,16 +21,19 @@ public class DollarDollarBillsYo
     
     public static int collect(int monataryGoal)
     {
+        int temp = 0;
         if (monataryGoal == 1)
-            return 1;
-        else
+            return 0;
+        else if (monataryGoal >1)
         {
             for (int i = 0; i<10; i++)
             {
-                return collect(monataryGoal/10);
+                temp += 1+collect(monataryGoal/10);
             }
+            return temp;
         }
-        
+        else
+            return 0;
     }
 
     

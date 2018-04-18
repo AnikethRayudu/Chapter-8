@@ -2,6 +2,6 @@
 comment0.params=
 comment0.target=GCD()
 comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ GCD\r\n
-comment1.params=y
-comment1.target=int\ sampleMethod(int)
+comment1.params=num1\ num2
+comment1.target=int\ gcd(int,\ int)
 numComments=2

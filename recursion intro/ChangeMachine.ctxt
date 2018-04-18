@@ -2,6 +2,6 @@
 comment0.params=
 comment0.target=ChangeMachine()
 comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ ChangeMachine\r\n
-comment1.params=y
+comment1.params=amount
 comment1.target=int\ change(int)
 numComments=2
